@@ -1,0 +1,5 @@
+# As anounce in the instrcutions, we are going to ignore java compiled files ⬇️ 
+*.class
+
+# Ignore DS_Store files created by Mac os 
+*.DS_store
