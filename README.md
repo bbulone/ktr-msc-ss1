@@ -5,7 +5,7 @@
 Just clone the repo and compile the different java files with :
 
 ```
-javac \* .java
+javac * .java
 ```
 
 then execute with :
