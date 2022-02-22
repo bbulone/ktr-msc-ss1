@@ -1,5 +1,5 @@
 
-/** @author Bulone Benjamin */
+/** @author Bulone Benjamin **/
 
 public interface Movable {
 
